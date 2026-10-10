@@ -1,8 +1,8 @@
 <h1 align="center">Hi  I'm Anne</h1>
 
 <p align="center">
-  <b>🎓 Estudante de Informática para Internet </b><br>
-  <b>🎯 Foco Atual: C# • JavaScript • HTML5 • CSS3</b>
+  <b> Estudante de Informática para Internet </b><br>
+  <b>Foco Atual: C# • JavaScript • HTML5 • CSS3</b>
 </p>
 
 ---
@@ -10,15 +10,11 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+  <a href="linkedin.com/in/anne-felix-1030bb39a" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(TWITTER)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  
+  
   <a href="mailto:SEU_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
